@@ -1,4 +1,4 @@
-<h2>Bitverter</h2>
+<h2>Bitverter - Projeto de estudo</h2>
 
 <br />
 
